@@ -1,5 +1,6 @@
 # smtp_enum_users.py
 SMTP User enumeration tool
+
 Enumerates valid users on an SMTP server by attempting to send emails and observing whether the server accepts or rejects the recipient.
 
 # Installation
