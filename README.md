@@ -6,7 +6,7 @@ Enumerates valid users on an SMTP server by attempting to send emails and observ
 # Installation
 No external modules need to be installed, only standard library modules were used.
 ```
-$ git pull https://github.com/tropkal/smtp_enum
+$ git clone https://github.com/tropkal/smtp_enum
 ```
 
 # Usage
