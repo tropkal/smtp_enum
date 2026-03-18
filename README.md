@@ -23,7 +23,7 @@ $ ./smtp_enum_users.py users.txt winserver01.hs
 [+] Valid user found: alfonso
 [*] Testing user: 14/19 (73.7%) - roger
 [+] Valid user found: roger
-[*] Testing user: 19/19 (100.0%) - 10
+[*] Testing user: 19/19 (100.0%) - testuser
 [+] Done. Found 2 valid user(s).
 [+] Valid users:
     -> alfonso@winserver01.hs
